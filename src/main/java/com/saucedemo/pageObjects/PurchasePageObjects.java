@@ -5,7 +5,7 @@ import net.serenitybdd.core.pages.PageObject;
 import net.thucydides.core.annotations.DefaultUrl;
 import org.openqa.selenium.By;
 
-@DefaultUrl("https://www.saucedemo.com/")
+@DefaultUrl("page:webdriver.Base.url")
 public class PurchasePageObjects extends PageObject {
 
     public static final By TXT_USERNAME = By.xpath("//input[@id='user-name']");
