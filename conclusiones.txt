@@ -1,0 +1,12 @@
+Conclusión de la Prueba Funcional Automatizada (Prueba E2E) del Flujo de Compra.
+
+La automatización del flujo de compra en el sitio web ha permitido validar de manera efectiva las funcionalidades clave asociadas al proceso de compra. La prueba incluyó autenticación, selección de productos, visualización del carrito, y finalización de la compra, cubriendo así un ciclo completo de usuario.
+Durante la ejecución de la prueba, se verificaron los siguientes pasos:
+
+1.	Autenticación Exitosa: Se utilizó el usuario standard_user y la contraseña secret_sauce, lo cual permitió el acceso sin inconvenientes, validando la correcta autenticación de usuarios.
+2.	Agregar Productos al Carrito: Dos productos fueron seleccionados y agregados exitosamente al carrito, confirmando la funcionalidad de agregar artículos.
+3.	Visualización del Carrito: Se visualizo que los productos seleccionados se mostraran correctamente en la vista del carrito.
+4.	Formulario de Compra: La prueba incluyó el llenado exitoso del formulario de compra, verificando que el sistema acepte la información del cliente.
+5.	Finalización del Pedido: El proceso concluyó con el mensaje de confirmación "THANK YOU FOR YOUR ORDER", lo que asegura que el flujo de compra fue completado correctamente.
+
+En resumen, la prueba automatizada logró verificar el funcionamiento integral del flujo de compra, identificando que el sistema responde de manera adecuada ante interacciones típicas de un usuario final. Esto garantiza una experiencia de usuario satisfactoria y sin errores en el proceso de compra.
